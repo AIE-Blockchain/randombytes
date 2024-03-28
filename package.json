@@ -1,6 +1,6 @@
 {
-  "name": "randombytes",
-  "version": "2.1.0",
+  "name": "@aie-blockchain/randombytes",
+  "version": "2.1.1",
   "description": "random bytes from browserify stand alone",
   "main": "index.js",
   "scripts": {
